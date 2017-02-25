@@ -2505,7 +2505,7 @@ input.checkbox:checked:after {
 		margin-top: 0;
 	}
 	.banner1 {
-		min-height: 75px;
+		min-height: 200px;
 	}
 	.w3l_sandwich {
 		font-size: 1.3em;
@@ -2517,7 +2517,7 @@ input.checkbox:checked:after {
 		padding-left: 2em;
 	}
 	.agileits_w3layouts_blog ul.w3_list_users {
-		margin-bottom: 1em;
+		margin-bottom: 1e200
 	}
 	.w3ls_leave_reply h3 {
 		font-size: 1.3em;
