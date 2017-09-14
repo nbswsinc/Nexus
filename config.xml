@@ -1,4 +1,4 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="in.co.nexusengineering.nexusapp" version="3.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="in.co.nexusengineering.nexusapp" version="3.0.1">
   <name>Nexus</name>
   <description>This is an app for organisation named Nexus Engineering.</description>
   <author href="http://pocketapp.in" email="support@pocketapp.in">PocketApp.in</author>
